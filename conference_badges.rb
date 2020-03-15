@@ -11,3 +11,9 @@ def batch_badge_creator(attendees)
     return badges
 end
 
+def assign_rooms(speakers)
+  room = []
+  speakers.each_with_index do
+  
+  .each_with_index
+end
