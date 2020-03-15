@@ -5,5 +5,5 @@ end
 
 def batch_badge_creator(attendees)
     arraytemp = []
-    name.each do ||
+    attendees.each do ||
 end
